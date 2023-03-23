@@ -25,7 +25,7 @@ const Roadmap = () => {
             <li>Private Investment</li>
             <li>Round</li>
             <li>NFT Creation & </li>
-            <li>Minting on Solana</li>
+            <li>Minting on Solana </li>
             <li>Album Creation on</li>
             <li>Marketplace</li>
             <li>ICO Preparation : </li>
