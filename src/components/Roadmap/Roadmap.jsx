@@ -23,7 +23,7 @@ const Roadmap = () => {
           <h5>Q2 / PHASE 2</h5>
           <ul>
             <li>Private Investment</li>
-            {/* <li>Round</li> */}
+            <li>Round</li>
             <li>NFT Creation & </li>
             <li>Minting on Solana </li>
             <li>Album Creation on</li>
